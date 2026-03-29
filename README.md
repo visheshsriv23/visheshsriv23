@@ -2,7 +2,7 @@
 
 I love to do website development </br>
 # 💫 About Me:
-Currently wroking on a video conferencing app<br>Undergraduate student from KNIT,Sultanpur<br>MERN Stack Developer, Data Scientist&Visualizer
+Currently working on a video conferencing app<br>Undergraduate student from KNIT,Sultanpur<br>MERN Stack Developer, Data Scientist&Visualizer
 
 
 ## 🌐 Socials:
