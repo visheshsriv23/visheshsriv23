@@ -1,8 +1,17 @@
-## Hi, myself Vishesh Srivastava
+# Hi there, I'm Vishesh Srivastava 👋
 
-I love to do website development </br>
-# 💫 About Me:
-Currently working on a video conferencing app<br>Undergraduate student from KNIT,Sultanpur<br>MERN Stack Developer, Data Scientist&Visualizer
+I am a passionate Full-Stack Developer and Open-Source Contributor focused on building interactive, high-performance web experiences and scalable backend architectures. I love bridging the gap between robust engineering and creative 3D web graphics.
+
+---
+
+## 🚀 About Me
+
+- 🛠️ **Current Focus:** Building a production-ready, low-latency video conferencing application.
+- 🎓 **Education:** Undergraduate Student at Kamla Nehru Institute of Technology (KNIT), Sultanpur.
+- 💡 **Interests:** Full-Stack Web Development, Interactive 3D Web Graphics (Three.js), Data Visualization, and Open-Source Software.
+- 🌱 **Open Source:** Proud contributor to upstream ecosystems like `pmndrs/drei` and `maplibre-gl-js`.
+
+---
 
 
 ## 🌐 Socials:
