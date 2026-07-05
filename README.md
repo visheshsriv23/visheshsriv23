@@ -13,6 +13,15 @@ I am a passionate Full-Stack Developer and Open-Source Contributor focused on bu
 
 ---
 
+##  Experience
+
+- 💻 **Intern at Pinnacle Labs.**
+- 💻  **SDE Intern at SYMB Technologies** 
+- 🎓 **Amazon ML SCHOOL, 26 Finalist** 
+- 🚀  **ET AI Hackathon Finalist** 
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-srivastava-29572233a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:789vishesh789@gmail.com) 
