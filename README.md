@@ -17,7 +17,7 @@ I am a passionate Full-Stack Developer and Open-Source Contributor focused on bu
 
 - 💻 **Intern at Pinnacle Labs.**
 - 💻  **SDE Intern at SYMB Technologies** 
-- 🎓 **Amazon ML SCHOOL, 26 Finalist** 
+- 🎓 **Amazon ML SCHOOL'26 Finalist** 
 - 🚀  **ET AI Hackathon Finalist** 
 
 ---
