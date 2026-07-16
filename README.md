@@ -6,7 +6,7 @@ I am a passionate Full-Stack Developer and Open-Source Contributor focused on bu
 
 ## 🚀 About Me
 
-- 🛠️ **Current Focus:** Building a production-ready, low-latency video conferencing application.
+- 🛠️ **Current Focus:** Building a production-ready, low-latency video conferencing website.
 - 🎓 **Education:** Undergraduate Student at Kamla Nehru Institute of Technology (KNIT), Sultanpur.
 - 💡 **Interests:** Full-Stack Web Development, Interactive 3D Web Graphics (Three.js), Data Visualization, and Open-Source Software.
 - 🌱 **Open Source:** Proud contributor to upstream ecosystems like `pmndrs/drei` and `maplibre-gl-js`.
